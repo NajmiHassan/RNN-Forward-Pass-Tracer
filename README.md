@@ -98,6 +98,7 @@ model = SimpleRNN(input_size=10, hidden_size=8, output_size=3)
 # Different sequence lengths
 x = torch.randn(1, 5, 10)  # 5 timesteps instead of 3
 ```
+![image](https://github.com/user-attachments/assets/2f8bdfc6-a6ea-4e55-a4d7-e4f69380202d)
 
 ### Visualization Options
 
