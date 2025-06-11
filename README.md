@@ -54,6 +54,7 @@ with torch.no_grad():
 # Visualize the results
 tracer.visualize()
 ```
+![image](https://github.com/user-attachments/assets/32fd35e1-9be7-430b-aeaa-684a83ad4b48)
 
 ## Understanding the Output
 
